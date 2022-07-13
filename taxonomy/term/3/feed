@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://avo.drupalet.com/">
+  <channel>
+    <title>tags, lorem</title>
+    <link>https://avo.drupalet.com/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Etiam ac risus arcu. In sollicitudin purus</title>
+  <link>https://avo.drupalet.com/etiam-ac-risus-arcu-sollicitudin-purus</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Etiam ac risus arcu. In sollicitudin purus&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://avo.drupalet.com/admin-0" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 08/02/2021 - 05:22&lt;/span&gt;
+
+
+    	  	&lt;p&gt;Fusce imperdiet nisl et elit tempor faucibus. Etiam ac risus arcu. In sollicitudin purus a nisl posuere pharetra. Mauris cursus tristique lobortis. Morbi ornare arcu ante, in hendrerit metus mattis in. Nunc ipsum lorem, mattis ut nunc et, gravida pharetra magna. Aenean accumsan ornare urna a laoreet. Vivamus iaculis purus luctus ex sagittis efficitur. Nunc rhoncus pharetra dictum. Vivamus consequat velit sem, vitae feugiat neque iaculis non. Ut bibendum mauris at ultrices fringilla. Proin hendrerit nec urna ut euismod. Etiam at consequat nulla.&lt;/p&gt;
+
+&lt;p&gt;Nam rhoncus risus maximus nisi fringilla scelerisque. Suspendisse at nisi eget sem pharetra tincidunt sed at sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur sem urna, fringilla ut leo non, volutpat pellentesque est. Integer varius diam nec feugiat tempor. Ut sit amet nisi nisi. In bibendum suscipit nulla, eget finibus lectus semper a. Sed vitae turpis nisi. Cras bibendum, ipsum et imperdiet mollis, nisl ex dapibus arcu, eget elementum libero nisi sit amet turpis. Suspendisse potenti. Donec viverra, arcu sed feugiat egestas, justo neque elementum mauris, non maximus ante libero nec ligula.&lt;/p&gt;
+
+&lt;p&gt;Quisque bibendum enim in convallis porttitor. Aliquam congue suscipit ultrices. Nullam quis efficitur augue, ut molestie orci. Nullam nec tellus sem. Cras facilisis dictum velit. Sed et convallis arcu. Nullam egestas ac mi at ultricies. Vivamus eu sollicitudin leo. Etiam dictum orci sed velit sagittis eleifend at eget nisi. Sed nec pharetra orci. Donec rhoncus ultricies nibh et dictum. Integer cursus a enim vel posuere. Vivamus vehicula vel enim sed luctus.&lt;/p&gt;
+
+	  
+	 &lt;div class="comment-form"&gt;
+	    &lt;h5&gt;Add Comment :&lt;/h5&gt;
+	    &lt;div class="form"&gt;
+	         &lt;drupal-render-placeholder callback="comment.lazy_builders:renderForm" arguments="0=node&amp;1=6&amp;2=field_blog_comments&amp;3=comment" token="dpYbd2vVnCJCXcQ8O44h111--q6kOHp4vaZqvGM8kLU"&gt;&lt;/drupal-render-placeholder&gt; 
+	    &lt;/div&gt;
+	&lt;/div&gt;
+
+
+    	  	&lt;a href="https://avo.drupalet.com/tags/tags-lorem" hreflang="en"&gt;tags, lorem&lt;/a&gt;
+	
+
+    	  	  &lt;img src="https://avo.drupalet.com/sites/default/files/2021-08/1.jpg" width="1000" height="662" alt="" loading="lazy" typeof="foaf:Image" /&gt;
+
+
+	
+
+    	  	&lt;a href="https://avo.drupalet.com/blog-categories/web" hreflang="en"&gt;Web&lt;/a&gt;
+	</description>
+  <pubDate>Mon, 02 Aug 2021 09:22:09 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">6 at https://avo.drupalet.com</guid>
+    <comments>https://avo.drupalet.com/etiam-ac-risus-arcu-sollicitudin-purus#comments</comments>
+    </item>
+
+  </channel>
+</rss>

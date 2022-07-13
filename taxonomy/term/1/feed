@@ -1,0 +1,128 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://avo.drupalet.com/">
+  <channel>
+    <title>Web</title>
+    <link>https://avo.drupalet.com/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Fusce eu mollis nibh, ut tempor</title>
+  <link>https://avo.drupalet.com/fusce-eu-mollis-nibh-ut-tempor</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Fusce eu mollis nibh, ut tempor&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://avo.drupalet.com/admin-0" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 08/13/2021 - 05:53&lt;/span&gt;
+
+
+    	  	&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eleifend velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras id nisi arcu. Praesent vestibulum dapibus leo. Donec et massa finibus, consequat nulla volutpat, aliquam ipsum. Fusce feugiat a metus quis rutrum. Praesent at arcu diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus eget felis blandit, congue leo eu, finibus magna. Cras dolor velit, rutrum a pulvinar eu, dapibus et tortor. Etiam at ipsum ac felis auctor feugiat. Donec elementum magna et velit scelerisque, eu fringilla ipsum ultrices. Morbi et ligula eu enim lobortis pulvinar. Suspendisse efficitur mollis diam, eu consectetur lectus pulvinar non. Nulla facilisi.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum placerat, nisl vehicula ultricies dignissim, quam tellus faucibus odio, at finibus metus magna a nulla. Vivamus vitae efficitur tortor. Phasellus condimentum, odio sit amet accumsan ullamcorper, dolor justo hendrerit lacus, at gravida tellus ex ut ante. Fusce eu mollis nibh, ut tempor eros. Donec eleifend mauris nec justo fermentum placerat. Morbi ex tellus, imperdiet eget nulla quis, gravida vehicula erat. Integer luctus viverra nunc, vitae imperdiet ante auctor a. Nam vel lacinia risus. Morbi varius, arcu sed accumsan fermentum, quam elit viverra elit, dictum elementum purus ligula eleifend dolor. Mauris facilisis felis a velit pulvinar pharetra quis sed dui. Fusce ornare ultrices nisi sit amet ultricies. Sed molestie cursus nunc. Cras facilisis ipsum non diam vestibulum venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.&lt;/p&gt;
+
+	
+   	&lt;div class="comments-area"&gt;
+	    &lt;h5&gt;Comment(s) :&lt;/h5&gt;
+	    &lt;div class="item"&gt;
+    &lt;div class="comment-img"&gt;
+                     	
+
+    	  	  &lt;a href="https://avo.drupalet.com/admin-0" hreflang="en"&gt;&lt;img src="https://avo.drupalet.com/sites/default/files/styles/thumbnail/public/pictures/2021-08/6.jpg?itok=iKpISlme" width="82" height="100" alt="Profile picture for user admin" loading="lazy" typeof="foaf:Image" class="image-style-thumbnail" /&gt;
+
+&lt;/a&gt;
+
+	
+
+            &lt;/div&gt;
+    &lt;div class="info"&gt;
+        &lt;h6&gt;&lt;span rel="schema:author"&gt;&lt;span lang="" about="https://avo.drupalet.com/admin-0" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+ - &lt;span&gt; 13 August 2021 at 6:02 am&lt;/span&gt;&lt;/h6&gt;
+        &lt;span class="replay"&gt;&lt;drupal-render-placeholder callback="comment.lazy_builders:renderLinks" arguments="0=1&amp;1=default&amp;2=en&amp;3=" token="f2l6E3exSxFDxa_4V_oxZaC4lhbUjGxcEMIVDS7iiXI"&gt;&lt;/drupal-render-placeholder&gt; &lt;/span&gt;
+        &lt;p&gt;
+
+    	  	&lt;/p&gt;&lt;p&gt;Ut ut sem eu nisi lobortis pulvinar eu sit amet eros. Vivamus laoreet accumsan tincidunt. Nullam augue lorem, hendrerit a mollis et, mollis quis risus. Curabitur non turpis sit amet lacus dapibus finibus at at leo. Pellentesque at justo vel eros dictum tincidunt. Quisque sed pulvinar turpis.&lt;/p&gt;
+	
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="indented"&gt;&lt;div class="item"&gt;
+    &lt;div class="comment-img"&gt;
+                     	
+
+    	  	  &lt;a href="https://avo.drupalet.com/admin-0" hreflang="en"&gt;&lt;img src="https://avo.drupalet.com/sites/default/files/styles/thumbnail/public/pictures/2021-08/6.jpg?itok=iKpISlme" width="82" height="100" alt="Profile picture for user admin" loading="lazy" typeof="foaf:Image" class="image-style-thumbnail" /&gt;
+
+&lt;/a&gt;
+
+	
+
+            &lt;/div&gt;
+    &lt;div class="info"&gt;
+        &lt;h6&gt;&lt;span rel="schema:author"&gt;&lt;span lang="" about="https://avo.drupalet.com/admin-0" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+ - &lt;span&gt; 13 August 2021 at 6:04 am&lt;/span&gt;&lt;/h6&gt;
+        &lt;span class="replay"&gt;&lt;drupal-render-placeholder callback="comment.lazy_builders:renderLinks" arguments="0=2&amp;1=default&amp;2=en&amp;3=" token="8HyszN_uZaobqtd30DdLSRD9p71vJt7YwSHUzjLPUDo"&gt;&lt;/drupal-render-placeholder&gt; &lt;/span&gt;
+        &lt;p&gt;
+
+    	  	&lt;/p&gt;&lt;p&gt;Vivamus laoreet accumsan . Pellentesque at justo vel eros dictum tincidunt. Quisque sed pulvinar turpis.&lt;/p&gt;
+	
+    &lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;
+	&lt;/div&gt;
+	 &lt;div class="comment-form"&gt;
+	    &lt;h5&gt;Add Comment :&lt;/h5&gt;
+	    &lt;div class="form"&gt;
+	         &lt;drupal-render-placeholder callback="comment.lazy_builders:renderForm" arguments="0=node&amp;1=29&amp;2=field_blog_comments&amp;3=comment" token="9kYJqJN_nL4QNtjWT8YsPb_jXY2Bv9NrASHDdb5feiU"&gt;&lt;/drupal-render-placeholder&gt; 
+	    &lt;/div&gt;
+	&lt;/div&gt;
+
+
+    	  	  &lt;img src="https://avo.drupalet.com/sites/default/files/2021-08/3.jpg" width="1000" height="662" alt="" loading="lazy" typeof="foaf:Image" /&gt;
+
+
+	
+
+    	  	&lt;a href="https://avo.drupalet.com/blog-categories/web" hreflang="en"&gt;Web&lt;/a&gt;
+	</description>
+  <pubDate>Fri, 13 Aug 2021 09:53:38 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">29 at https://avo.drupalet.com</guid>
+    <comments>https://avo.drupalet.com/fusce-eu-mollis-nibh-ut-tempor#comments</comments>
+    </item>
+<item>
+  <title>Etiam ac risus arcu. In sollicitudin purus</title>
+  <link>https://avo.drupalet.com/etiam-ac-risus-arcu-sollicitudin-purus</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Etiam ac risus arcu. In sollicitudin purus&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://avo.drupalet.com/admin-0" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 08/02/2021 - 05:22&lt;/span&gt;
+
+
+    	  	&lt;p&gt;Fusce imperdiet nisl et elit tempor faucibus. Etiam ac risus arcu. In sollicitudin purus a nisl posuere pharetra. Mauris cursus tristique lobortis. Morbi ornare arcu ante, in hendrerit metus mattis in. Nunc ipsum lorem, mattis ut nunc et, gravida pharetra magna. Aenean accumsan ornare urna a laoreet. Vivamus iaculis purus luctus ex sagittis efficitur. Nunc rhoncus pharetra dictum. Vivamus consequat velit sem, vitae feugiat neque iaculis non. Ut bibendum mauris at ultrices fringilla. Proin hendrerit nec urna ut euismod. Etiam at consequat nulla.&lt;/p&gt;
+
+&lt;p&gt;Nam rhoncus risus maximus nisi fringilla scelerisque. Suspendisse at nisi eget sem pharetra tincidunt sed at sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur sem urna, fringilla ut leo non, volutpat pellentesque est. Integer varius diam nec feugiat tempor. Ut sit amet nisi nisi. In bibendum suscipit nulla, eget finibus lectus semper a. Sed vitae turpis nisi. Cras bibendum, ipsum et imperdiet mollis, nisl ex dapibus arcu, eget elementum libero nisi sit amet turpis. Suspendisse potenti. Donec viverra, arcu sed feugiat egestas, justo neque elementum mauris, non maximus ante libero nec ligula.&lt;/p&gt;
+
+&lt;p&gt;Quisque bibendum enim in convallis porttitor. Aliquam congue suscipit ultrices. Nullam quis efficitur augue, ut molestie orci. Nullam nec tellus sem. Cras facilisis dictum velit. Sed et convallis arcu. Nullam egestas ac mi at ultricies. Vivamus eu sollicitudin leo. Etiam dictum orci sed velit sagittis eleifend at eget nisi. Sed nec pharetra orci. Donec rhoncus ultricies nibh et dictum. Integer cursus a enim vel posuere. Vivamus vehicula vel enim sed luctus.&lt;/p&gt;
+
+	  
+	 &lt;div class="comment-form"&gt;
+	    &lt;h5&gt;Add Comment :&lt;/h5&gt;
+	    &lt;div class="form"&gt;
+	         &lt;drupal-render-placeholder callback="comment.lazy_builders:renderForm" arguments="0=node&amp;1=6&amp;2=field_blog_comments&amp;3=comment" token="dpYbd2vVnCJCXcQ8O44h111--q6kOHp4vaZqvGM8kLU"&gt;&lt;/drupal-render-placeholder&gt; 
+	    &lt;/div&gt;
+	&lt;/div&gt;
+
+
+    	  	&lt;a href="https://avo.drupalet.com/tags/tags-lorem" hreflang="en"&gt;tags, lorem&lt;/a&gt;
+	
+
+    	  	  &lt;img src="https://avo.drupalet.com/sites/default/files/2021-08/1.jpg" width="1000" height="662" alt="" loading="lazy" typeof="foaf:Image" /&gt;
+
+
+	
+
+    	  	&lt;a href="https://avo.drupalet.com/blog-categories/web" hreflang="en"&gt;Web&lt;/a&gt;
+	</description>
+  <pubDate>Mon, 02 Aug 2021 09:22:09 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">6 at https://avo.drupalet.com</guid>
+    <comments>https://avo.drupalet.com/etiam-ac-risus-arcu-sollicitudin-purus#comments</comments>
+    </item>
+
+  </channel>
+</rss>

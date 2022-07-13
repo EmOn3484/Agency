@@ -1,0 +1,16 @@
+.bg-fixed{
+	background-attachment: fixed !important;
+}
+.bg-repeat {
+	background-repeat: repeat !important;
+}
+.bg-no-repeat {
+	background-repeat: no-repeat !important;
+}
+.block-bg-overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}

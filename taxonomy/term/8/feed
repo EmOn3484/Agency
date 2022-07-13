@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://avo.drupalet.com/">
+  <channel>
+    <title>design</title>
+    <link>https://avo.drupalet.com/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>In vitae rhoncus augue.</title>
+  <link>https://avo.drupalet.com/vitae-rhoncus-augue</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;In vitae rhoncus augue.&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://avo.drupalet.com/admin-0" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 08/13/2021 - 21:32&lt;/span&gt;
+
+
+    	  	&lt;p&gt;In vitae rhoncus augue. Pellentesque eget hendrerit sapien. Curabitur eget augue ut mi ullamcorper viverra id vel urna. Etiam pellentesque sem nec ex semper facilisis. Donec pretium venenatis purus sed venenatis. Morbi ac dignissim mauris. Suspendisse potenti.&lt;/p&gt;
+
+&lt;p&gt;Mauris dapibus vitae lacus vitae scelerisque. Vivamus mollis euismod dui, nec porttitor lectus porttitor in. Aenean porttitor neque pharetra hendrerit sodales. Integer sit amet lobortis ligula. Curabitur ornare purus ac faucibus convallis. Nullam et semper purus, eu pharetra justo. Proin sollicitudin eleifend lectus, et scelerisque metus finibus eget. Duis vitae ipsum lobortis, vestibulum enim sed, placerat est. Quisque vitae nibh ligula. Pellentesque commodo, augue sed porttitor maximus, tellus ex rhoncus erat, eu gravida neque metus a nunc. Phasellus nunc lectus, egestas non enim sit amet, tempor lacinia nisl.&lt;/p&gt;
+
+	
+
+    	  	  &lt;img src="https://avo.drupalet.com/sites/default/files/2021-08/5.jpg" width="600" height="446" alt="" loading="lazy" typeof="foaf:Image" /&gt;
+
+
+		  	  &lt;img src="https://avo.drupalet.com/sites/default/files/2021-08/3_3.jpg" width="800" height="838" alt="" loading="lazy" typeof="foaf:Image" /&gt;
+
+
+		  	  &lt;img src="https://avo.drupalet.com/sites/default/files/2021-08/4_0.jpg" width="800" height="888" alt="" loading="lazy" typeof="foaf:Image" /&gt;
+
+
+	
+
+    	  	&lt;time datetime="2021-08-19T12:00:00Z" class="datetime"&gt;Thu, 08/19/2021 - 12:00&lt;/time&gt;
+
+	
+
+    	  	&lt;a href="https://avo.drupalet.com/portfolio-categories/web-design" hreflang="en"&gt;WEB DESIGN&lt;/a&gt;
+	
+
+    	  	&lt;p&gt;In vitae rhoncus augue. Pellentesque eget hendrerit sapien. Curabitur eget augue ut mi ullamcorper viverra id vel urna. Etiam pellentesque sem nec ex semper facilisis. Donec pretium venenatis purus sed venenatis. Morbi ac dignissim mauris. Suspendisse potenti.&lt;/p&gt;
+
+&lt;p&gt;Mauris dapibus vitae lacus vitae scelerisque. Vivamus mollis euismod dui, nec porttitor lectus porttitor in. Aenean porttitor neque pharetra hendrerit sodales. Integer sit amet lobortis ligula. Curabitur ornare purus ac faucibus convallis. Nullam et semper purus, eu pharetra justo. Proin sollicitudin eleifend lectus, et scelerisque metus finibus eget. Duis vitae ipsum lobortis, vestibulum enim sed, placerat est. Quisque vitae nibh ligula. Pellentesque commodo, augue sed porttitor maximus, tellus ex rhoncus erat, eu gravida neque metus a nunc. Phasellus nunc lectus, egestas non enim sit amet, tempor lacinia nisl.&lt;/p&gt;
+
+	
+
+    	  	Proin sollicitudin eleifend lectus,
+	
+
+    	  	&lt;a href="https://avo.drupalet.com/taxonomy/term/9" hreflang="en"&gt;tag&lt;/a&gt;
+		  	&lt;a href="https://avo.drupalet.com/taxonomy/term/8" hreflang="en"&gt;design&lt;/a&gt;
+	
+
+    	  	  &lt;img src="https://avo.drupalet.com/sites/default/files/por/5.jpg" width="1920" height="1094" alt="" loading="lazy" typeof="foaf:Image" /&gt;
+
+
+	
+
+    	  	Donec pretium
+	</description>
+  <pubDate>Sat, 14 Aug 2021 01:32:01 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">35 at https://avo.drupalet.com</guid>
+    </item>
+<item>
+  <title>Sed tincidunt facilisis justo</title>
+  <link>https://avo.drupalet.com/sed-tincidunt-facilisis-justo</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Sed tincidunt facilisis justo&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://avo.drupalet.com/admin-0" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 08/13/2021 - 11:28&lt;/span&gt;
+
+
+    	  	&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at nibh est. Curabitur molestie urna in leo rhoncus rhoncus. Quisque efficitur leo eget dui aliquam, ut dictum sapien tristique. Donec vel diam pharetra, varius magna vel, pellentesque turpis. Proin eget dapibus lacus. Aenean viverra posuere congue. Proin scelerisque ex eu est vehicula varius. Maecenas maximus nibh sed lectus rhoncus pulvinar. Aliquam erat volutpat. Sed ultricies luctus sapien. Duis mi turpis, ornare at mollis sed, pellentesque sed lorem. Duis quis odio dapibus, venenatis lacus eu, ultricies diam. Duis at viverra sapien, id aliquet tellus.&lt;/p&gt;
+
+&lt;p&gt;Sed tincidunt facilisis justo, vel vulputate quam ornare sit amet. Nulla tempus ligula ipsum, a gravida erat molestie quis. Fusce sit amet tincidunt nisi, ut volutpat enim. Quisque vestibulum diam eu velit aliquet, ut posuere neque pretium. Ut ullamcorper egestas suscipit. Curabitur suscipit tincidunt imperdiet. Cras mollis mi tortor, sed eleifend lectus laoreet euismod. In posuere ullamcorper nisl vitae dignissim. Nulla molestie eros sit amet mi posuere, nec aliquet eros viverra. Sed viverra interdum elit. Nunc eget urna nec libero mollis viverra sed ut arcu. Curabitur faucibus quam libero, cursus sodales justo iaculis tincidunt. Sed id tortor suscipit, rutrum lectus vel, posuere metus. Nulla bibendum dictum pretium. Nulla interdum velit eu lectus fermentum, eu porttitor sapien consectetur. Vivamus in nisi tortor.&lt;/p&gt;
+
+	
+
+    	  	  &lt;img src="https://avo.drupalet.com/sites/default/files/2021-08/8_0.jpg" width="1920" height="1439" alt="" loading="lazy" typeof="foaf:Image" /&gt;
+
+
+		  	  &lt;img src="https://avo.drupalet.com/sites/default/files/2021-08/3_2.jpg" width="1920" height="1439" alt="" loading="lazy" typeof="foaf:Image" /&gt;
+
+
+		  	  &lt;img src="https://avo.drupalet.com/sites/default/files/2021-08/1_2.jpg" width="1920" height="1177" alt="" loading="lazy" typeof="foaf:Image" /&gt;
+
+
+		  	  &lt;img src="https://avo.drupalet.com/sites/default/files/2021-08/2_0.jpg" width="1920" height="1303" alt="" loading="lazy" typeof="foaf:Image" /&gt;
+
+
+	
+
+    	  	YOURDOMAIN.COM
+	
+
+    	  	&lt;time datetime="2021-08-20T12:00:00Z" class="datetime"&gt;Fri, 08/20/2021 - 12:00&lt;/time&gt;
+
+	
+
+    	  	&lt;a href="https://avo.drupalet.com/portfolio-categories/web-design" hreflang="en"&gt;WEB DESIGN&lt;/a&gt;
+	
+
+    	  	&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at nibh est. Curabitur molestie urna in leo rhoncus rhoncus. Quisque efficitur leo eget dui aliquam, ut dictum sapien tristique. Donec vel diam pharetra, varius magna vel, pellentesque turpis. Proin eget dapibus lacus. Aenean viverra posuere congue. Proin scelerisque ex eu est vehicula varius. Maecenas maximus nibh sed lectus rhoncus pulvinar. Aliquam erat volutpat. Sed ultricies luctus sapien. Duis mi turpis, ornare at mollis sed, pellentesque sed lorem. Duis quis odio dapibus, venenatis lacus eu, ultricies diam. Duis at viverra sapien, id aliquet tellus.&lt;/p&gt;
+
+&lt;p&gt;Sed tincidunt facilisis justo, vel vulputate quam ornare sit amet. Nulla tempus ligula ipsum, a gravida erat molestie quis. Fusce sit amet tincidunt nisi, ut volutpat enim. Quisque vestibulum diam eu velit aliquet, ut posuere neque pretium. Ut ullamcorper egestas suscipit. Curabitur suscipit tincidunt imperdiet. Cras mollis mi tortor, sed eleifend lectus laoreet euismod. In posuere ullamcorper nisl vitae dignissim. Nulla molestie eros sit amet mi posuere, nec aliquet eros viverra. Sed viverra interdum elit. Nunc eget urna nec libero mollis viverra sed ut arcu. Curabitur faucibus quam libero, cursus sodales justo iaculis tincidunt. Sed id tortor suscipit, rutrum lectus vel, posuere metus. Nulla bibendum dictum pretium. Nulla interdum velit eu lectus fermentum, eu porttitor sapien consectetur. Vivamus in nisi tortor.&lt;/p&gt;
+
+	
+
+    	  	Cras mollis mi tortor,
+	
+
+    	  	&lt;a href="https://avo.drupalet.com/taxonomy/term/8" hreflang="en"&gt;design&lt;/a&gt;
+	
+
+    	  	sapien tristique
+	</description>
+  <pubDate>Fri, 13 Aug 2021 15:28:53 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">33 at https://avo.drupalet.com</guid>
+    </item>
+<item>
+  <title>Inspiring new space</title>
+  <link>https://avo.drupalet.com/inspiring-new-space</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Inspiring new space&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://avo.drupalet.com/admin-0" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 08/13/2021 - 11:19&lt;/span&gt;
+
+
+    	  	&lt;p&gt;In dapibus ultricies sapien et tempor. Morbi volutpat tempus odio, sed scelerisque dui. Proin maximus lobortis sagittis. Vestibulum fringilla, felis quis scelerisque mollis, nulla nisi consequat dui, sed tempor augue sem id libero. Sed imperdiet faucibus semper. Aliquam ipsum felis, ultrices in consequat in, condimentum quis orci. Fusce risus urna, aliquam non gravida at, fermentum sed eros. Duis hendrerit dictum diam nec porta.&lt;/p&gt;
+
+	
+
+    	  	  &lt;img src="https://avo.drupalet.com/sites/default/files/2021-08/3_0.jpg" width="1920" height="1439" alt="" loading="lazy" typeof="foaf:Image" /&gt;
+
+
+		  	  &lt;img src="https://avo.drupalet.com/sites/default/files/2021-08/8.jpg" width="1920" height="1439" alt="" loading="lazy" typeof="foaf:Image" /&gt;
+
+
+	
+
+    	  	YOURDOMAIN.COM
+	
+
+    	  	&lt;time datetime="2021-07-28T12:00:00Z" class="datetime"&gt;Wed, 07/28/2021 - 12:00&lt;/time&gt;
+
+	
+
+    	  	&lt;a href="https://avo.drupalet.com/portfolio-categories/web-design" hreflang="en"&gt;WEB DESIGN&lt;/a&gt;
+	
+
+    	  	&lt;p&gt;Maecenas varius ex nec urna venenatis facilisis. Etiam tempor nisl sit amet consequat feugiat. Duis iaculis sapien odio, blandit euismod ante euismod in. Aliquam bibendum blandit lorem, vitae fermentum ligula viverra vitae. Morbi ac felis vestibulum nibh vestibulum accumsan aliquet eget velit.&lt;/p&gt;
+
+	
+
+    	  	art &amp; illustration
+	
+
+    	  	&lt;a href="https://avo.drupalet.com/taxonomy/term/8" hreflang="en"&gt;design&lt;/a&gt;
+	
+
+    	  	  &lt;img src="https://avo.drupalet.com/sites/default/files/por/4.jpg" width="1920" height="2715" alt="" loading="lazy" typeof="foaf:Image" /&gt;
+
+
+	
+
+    	  	Eminem Style
+	</description>
+  <pubDate>Fri, 13 Aug 2021 15:19:40 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">31 at https://avo.drupalet.com</guid>
+    </item>
+
+  </channel>
+</rss>

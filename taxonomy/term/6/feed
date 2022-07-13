@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://avo.drupalet.com/">
+  <channel>
+    <title>tag</title>
+    <link>https://avo.drupalet.com/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Lorem ipsum dolor sit amet</title>
+  <link>https://avo.drupalet.com/lorem-ipsum-dolor-sit-amet</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Lorem ipsum dolor sit amet&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;span lang="" about="https://avo.drupalet.com/admin-0" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;admin&lt;/span&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 08/13/2021 - 05:53&lt;/span&gt;
+
+
+    	  	&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vitae eleifend velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras id nisi arcu. Praesent vestibulum dapibus leo. Donec et massa finibus, consequat nulla volutpat, aliquam ipsum. Fusce feugiat a metus quis rutrum. Praesent at arcu diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus eget felis blandit, congue leo eu, finibus magna. Cras dolor velit, rutrum a pulvinar eu, dapibus et tortor. Etiam at ipsum ac felis auctor feugiat. Donec elementum magna et velit scelerisque, eu fringilla ipsum ultrices. Morbi et ligula eu enim lobortis pulvinar. Suspendisse efficitur mollis diam, eu consectetur lectus pulvinar non. Nulla facilisi.&lt;/p&gt;
+
+&lt;p&gt;Vestibulum placerat, nisl vehicula ultricies dignissim, quam tellus faucibus odio, at finibus metus magna a nulla. Vivamus vitae efficitur tortor. Phasellus condimentum, odio sit amet accumsan ullamcorper, dolor justo hendrerit lacus, at gravida tellus ex ut ante. Fusce eu mollis nibh, ut tempor eros. Donec eleifend mauris nec justo fermentum placerat. Morbi ex tellus, imperdiet eget nulla quis, gravida vehicula erat. Integer luctus viverra nunc, vitae imperdiet ante auctor a. Nam vel lacinia risus. Morbi varius, arcu sed accumsan fermentum, quam elit viverra elit, dictum elementum purus ligula eleifend dolor. Mauris facilisis felis a velit pulvinar pharetra quis sed dui. Fusce ornare ultrices nisi sit amet ultricies. Sed molestie cursus nunc. Cras facilisis ipsum non diam vestibulum venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.&lt;/p&gt;
+
+	  
+	 &lt;div class="comment-form"&gt;
+	    &lt;h5&gt;Add Comment :&lt;/h5&gt;
+	    &lt;div class="form"&gt;
+	         &lt;drupal-render-placeholder callback="comment.lazy_builders:renderForm" arguments="0=node&amp;1=28&amp;2=field_blog_comments&amp;3=comment" token="lLRkGAi5P6j9iM99_jKG1YxvJLITyB02GoT7oM-A7oA"&gt;&lt;/drupal-render-placeholder&gt; 
+	    &lt;/div&gt;
+	&lt;/div&gt;
+
+
+    	  	&lt;a href="https://avo.drupalet.com/tags/tag" hreflang="en"&gt;tag&lt;/a&gt;
+		  	&lt;a href="https://avo.drupalet.com/tags/lorem" hreflang="en"&gt;lorem&lt;/a&gt;
+	
+
+    	  	  &lt;img src="https://avo.drupalet.com/sites/default/files/2021-08/2.jpg" width="1000" height="662" alt="" loading="lazy" typeof="foaf:Image" /&gt;
+
+
+	
+
+    	  	&lt;a href="https://avo.drupalet.com/blog-categories/news" hreflang="en"&gt;News&lt;/a&gt;
+	</description>
+  <pubDate>Fri, 13 Aug 2021 09:53:38 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">28 at https://avo.drupalet.com</guid>
+    <comments>https://avo.drupalet.com/lorem-ipsum-dolor-sit-amet#comments</comments>
+    </item>
+
+  </channel>
+</rss>

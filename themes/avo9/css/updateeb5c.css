@@ -1,0 +1,126 @@
+
+.hide {
+	display: none;
+}
+.nv-sim-footer [type="submit"] {
+    display: none;
+}
+.contextual {
+
+    z-index: 99999;
+
+}
+.slider  .contextual {
+    top: 82px;
+}
+#toolbar-administration{
+    z-index: 999999999;
+    position: absolute
+}
+.navbar.light .logo-dark{
+    display: block!important;
+}
+.navbar.light .logo-light{
+    display: none!important;
+}
+.bd-dark .navbar .logo-dark{
+    display: none!important;
+}
+.bd-dark .navbar .logo-light{
+    display: block!important;
+}
+.indented{
+    margin-left: 40px
+}
+[type="submit"]{
+        padding: 12px 35px!important;
+    border: 1px solid #1e1e1e!important;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    background: transparent;
+    border-color: #75dab4!important;
+    color: #75dab4;
+    font-family: inherit;
+    text-transform: uppercase;
+    width: auto!important;
+}
+
+.user-pass input,.user-register-form input,.user-login-form input,.user-register-form select{
+
+    width: auto;
+
+}
+
+.user-pass label,.user-register-form label,.user-login-form label{
+
+    display: block;
+
+}
+.btn-simple{
+	border: 0;
+    padding: 15px 30px;
+    background: rgba(255, 255, 255, 0.02);
+    color: #75dab4;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 13px;
+    z-index: 2;
+    cursor: pointer;
+    margin-right: 0;
+    margin-left: 0;
+}
+.simple-block input[type="email"]{
+	padding: 15px;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.01);
+    border: 0;
+    color: #fff;
+}
+.simple-block #edit-message {
+	font-size: 12px
+}
+.simple-block .form-item, .form-actions{
+	margin-top: 0
+}
+iframe{
+    width: 100%
+}
+.contact .form [type="submit"] {
+    width: auto;
+    border: 1px solid;
+    padding: 12px 26px;
+    margin: 0;
+    transition: all .5s;
+}
+.contact .form [type="submit"]:hover {
+    color: #75dab4;
+    border-color: #fff;
+    background-color: #fff;
+}
+.search-results li{
+    margin: 0px;
+    border-bottom: 1px solid #dcdcdc;
+    padding: 14px 0;
+
+}
+
+.search-results .search-result__title a{
+    text-transform: uppercase;
+    font-size: 22px;
+    line-height: 25px;
+    margin-bottom: 18px;
+    font-style: normal;
+}
+.info.custom-font {
+    display: table;
+}
+.info.custom-font >.author{
+    display: table-cell;
+}
+.info.custom-font >.author > span{
+    margin-right: 15px;
+}
+.info.custom-font >.tag {
+    display: table-cell;
+}
